@@ -23,8 +23,8 @@ A machine learning web application that classifies movie reviews as positive or 
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/imdb-sentiment-analysis.git
-cd imdb-sentiment-analysis
+git clone https://github.com/yourusername/RNN_imdb_sentiment_prediction.git
+cd RNN_imdb_sentiment_prediction
 ```
 2. Create virtual environment:
 ``` bash
